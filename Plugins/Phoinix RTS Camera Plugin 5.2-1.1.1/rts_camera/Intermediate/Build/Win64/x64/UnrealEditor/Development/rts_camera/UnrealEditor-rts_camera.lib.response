@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-rts_camera.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Mes Documents\Projet_Perso\Unreal\UnrealRTS\Intermediate\Build\Win64\x64\RTSEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"D:\Mes Documents\Projet_Perso\Unreal\UnrealRTS\Plugins\Phoinix RTS Camera Plugin 5.2-1.1.1\rts_camera\Intermediate\Build\Win64\x64\UnrealEditor\Development\rts_camera\Module.rts_camera.cpp.obj"
+"D:\Mes Documents\Projet_Perso\Unreal\UnrealRTS\Plugins\Phoinix RTS Camera Plugin 5.2-1.1.1\rts_camera\Intermediate\Build\Win64\x64\UnrealEditor\Development\rts_camera\Default.rc2.res"
+/OUT:"D:\Mes Documents\Projet_Perso\Unreal\UnrealRTS\Plugins\Phoinix RTS Camera Plugin 5.2-1.1.1\rts_camera\Intermediate\Build\Win64\x64\UnrealEditor\Development\rts_camera\UnrealEditor-rts_camera.lib"

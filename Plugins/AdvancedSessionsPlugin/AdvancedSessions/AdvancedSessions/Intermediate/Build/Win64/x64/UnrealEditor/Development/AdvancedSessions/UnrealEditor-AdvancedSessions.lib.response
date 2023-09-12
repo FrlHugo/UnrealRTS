@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AdvancedSessions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Mes Documents\Projet_Perso\Unreal\UnrealRTS\Intermediate\Build\Win64\x64\RTSEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"D:\Mes Documents\Projet_Perso\Unreal\UnrealRTS\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.1_of_3.cpp.obj"
+"D:\Mes Documents\Projet_Perso\Unreal\UnrealRTS\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.2_of_3.cpp.obj"
+"D:\Mes Documents\Projet_Perso\Unreal\UnrealRTS\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3_of_3.cpp.obj"
+"D:\Mes Documents\Projet_Perso\Unreal\UnrealRTS\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Default.rc2.res"
+/OUT:"D:\Mes Documents\Projet_Perso\Unreal\UnrealRTS\Plugins\AdvancedSessionsPlugin\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.lib"

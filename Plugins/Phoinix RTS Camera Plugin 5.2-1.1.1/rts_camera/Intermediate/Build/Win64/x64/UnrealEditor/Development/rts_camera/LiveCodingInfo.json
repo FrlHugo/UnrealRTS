@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.rts_camera.cpp.obj": [
+			"RTSPawn.gen.cpp.obj",
+			"rts_camera.init.gen.cpp.obj",
+			"RTSPawn.cpp.obj",
+			"rts_camera.cpp.obj"
+		]
+	}
+}
